@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/watchwise/static/css/main.5a9f91c7.css",
-    "main.js": "/watchwise/static/js/main.12f07745.js",
+    "main.css": "/watchwise/static/css/main.7c93cd60.css",
+    "main.js": "/watchwise/static/js/main.1cff743c.js",
     "static/media/search.png": "/watchwise/static/media/search.e21534c50161a2f513a7.png",
     "index.html": "/watchwise/index.html",
-    "main.5a9f91c7.css.map": "/watchwise/static/css/main.5a9f91c7.css.map",
-    "main.12f07745.js.map": "/watchwise/static/js/main.12f07745.js.map"
+    "main.7c93cd60.css.map": "/watchwise/static/css/main.7c93cd60.css.map",
+    "main.1cff743c.js.map": "/watchwise/static/js/main.1cff743c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a9f91c7.css",
-    "static/js/main.12f07745.js"
+    "static/css/main.7c93cd60.css",
+    "static/js/main.1cff743c.js"
   ]
 }
